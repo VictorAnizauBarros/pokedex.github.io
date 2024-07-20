@@ -9,9 +9,11 @@
 }
 
 body{
-    text-align:center; 
+   display: flex;
     background: linear-gradient(to bottom, #6ab7f5, #fff);
     min-height: 100vh;
+    align-items: center;
+    justify-content: center;
 }
 
 main{
